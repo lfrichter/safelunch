@@ -1,0 +1,5 @@
+- ## Get Started
+    - [Overview](/{{route}}/{{version}}/overview)
+    - [Api Authentication](/{{route}}/{{version}}/api_auth)
+    - [Api Authority](/{{route}}/{{version}}/api_authority)
+    - [Api Establishment](/{{route}}/{{version}}/api_establishment)
