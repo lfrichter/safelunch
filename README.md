@@ -3,7 +3,7 @@
 
 ![Safelunch|right](https://i.imgur.com/mdkjvLk.jpg?1)
 
-[![ubuntu](https://img.shields.io/badge/ubuntu-18.04.1-E95420.svg?logo=ubuntu&logoColor=white&style=for-the-badge)](https://www.ubuntu.com/)                                                                                                                                                                                                                               [![Composer](https://img.shields.io/badge/Composer-2.0.11-885630.svg?logo=composer&logoColor=white&style=for-the-badge)](https://getcomposer.org/)                                                                                                                                                                                                                                     [![git](https://img.shields.io/badge/Git-2.17.1-F05032.svg?logo=git&style=for-the-badge&logoColor=white)](https://git-scm.com/downloads)                                                                                                                                                                                                                                                                                                                                                                                                                                                                         [![php](https://img.shields.io/badge/php-7.4.16-777BB4.svg?logo=php&logoColor=white&style=for-the-badge)](http://php.net/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                   [ ![Laravel](https://img.shields.io/badge/Laravel-8.32.1-E74430.svg?logo=laravel&logoColor=white&style=for-the-badge)](https://laravel.com/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                          [![mySql](https://img.shields.io/badge/mysql-5.7.26-4479A1.svg?logo=mysql&logoColor=white&style=for-the-badge) ](https://www.mysql.com/)                                                                                                                                                                                                                                     [![nginx](https://img.shields.io/badge/nginx-1.14.0-269539.svg?logo=nginx&logoColor=white&style=for-the-badge)](http://nginx.org/) 
+[![ubuntu](https://img.shields.io/badge/ubuntu-18.04.1-E95420.svg?logo=ubuntu&logoColor=white&style=for-the-badge)](https://www.ubuntu.com/)                                                                                                                                                                                                                               [![Composer](https://img.shields.io/badge/Composer-2.0.11-885630.svg?logo=composer&logoColor=white&style=for-the-badge)](https://getcomposer.org/)                                                                                                                                                                                                                                     [![git](https://img.shields.io/badge/Git-2.17.1-F05032.svg?logo=git&style=for-the-badge&logoColor=white)](https://git-scm.com/downloads)                                                                                                                                                                                                                                                                                                                                                                                                                                                                         [![php](https://img.shields.io/badge/php-7.4.16-777BB4.svg?logo=php&logoColor=white&style=for-the-badge)](http://php.net/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                   [ ![Laravel](https://img.shields.io/badge/Laravel-8.32.1-E74430.svg?logo=laravel&logoColor=white&style=for-the-badge)](https://laravel.com/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                          [![mySql](https://img.shields.io/badge/mysql-5.7.26-4479A1.svg?logo=mysql&logoColor=white&style=for-the-badge) ](https://www.mysql.com/)                                                                                                                                                                                                                                     [![nginx](https://img.shields.io/badge/nginx-1.14.0-269539.svg?logo=nginx&logoColor=white&style=for-the-badge)](http://nginx.org/)
 [![npm](https://img.shields.io/badge/NPM-7.6.3-CB3837.svg?logo=npm&style=for-the-badge&logoColor=white)](https://www.npmjs.com)                                                                                                                                                                                                                                                                                                                                  [![Node.js](https://img.shields.io/badge/Node-15.12.0-339933.svg?logo=node.js&style=for-the-badge&logoColor=white)](https://nodejs.org/en/)
 
 Search for a safe meal across the UK, information based on the [FHRS](https:%20//ratings.food.gov.uk/) platform.
@@ -44,7 +44,7 @@ Both these tables have soft delete approach.
 ### User
 <a name="user"></a>
 - The default user administrator is:  `fernando.richter@gmail.com`  pass `12345678`
-- Other users will be developers and their pass is `password` 
+- Other users will be developers and their pass is `password`
 
 ---
 <a name="api-authentication"></a>
@@ -189,8 +189,8 @@ Both these tables have soft delete approach.
     },
     {...},
    }
-}    
-  
+}
+
 ```
 <a name="error-reponse"></a>
 ### Error Response
@@ -421,8 +421,8 @@ Both these tables have soft delete approach.
     },
     {...},
    }
-}    
-  
+}
+
 ```
 
 ### Error Response
@@ -651,7 +651,13 @@ Both these tables have soft delete approach.
 }
 ```
 
----
+
+
+## Author
+Luis Fernando Richter - lfrichter
+
+
+
 ## License
 
 The Safelunch is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
